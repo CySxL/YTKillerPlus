@@ -76,8 +76,8 @@
 "HIDE_OVERLAY_QUICK_ACTION" = "Hide Overlay Quick Action";
 "HIDE_PLAYERBAR_WAVE" = "Hide Waves Behind Timeline";
 "HIDE_PLAYERBAR_WAVE_INFO" = "Hide viewed Heat map while scrolling on timeline";
-"SWIPE_TO_HIDE_PANEL" = "Swipe To Hide Panel view";
-"SWIPE_TO_HIDE_PANEL_INFO" = "Swipe from left to right on FS panels view";
+"SWIPE_TO_HIDE_PANEL" = "Swipe To Hide Panel View";
+"SWIPE_TO_HIDE_PANEL_INFO" = "Swipe from left to right on fullscreen panel view";
 "MEDIA_CONTROLLER" = "overlay controller";
 "SHOW_OVERLAY_CONTROLLER_SMART" = "Always Show Play/Pause Button";
 "SHOW_MEDIA_CONTROLLER" = "Always Show All Overlay Controllers";
