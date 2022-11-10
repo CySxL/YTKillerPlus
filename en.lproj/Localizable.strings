@@ -57,7 +57,7 @@
 
 /* video player section */
 "VIDEO_PLAYER_SECTION" = "video player";
-"HIDE_SUGGESTED_VIDEO" = "Hide Suggested Video";
+"HIDE_SUGGESTED_VIDEO" = "Hide Suggested Video Below Comments";
 "COMMENTS" = "Comments";
 "HIDE_COMMENTS" = "Hide Comments";
 "HIDE_COMMENTS_PREVIEW" = "Hide Comments Preview";
