@@ -34,8 +34,8 @@
 "MISCELLANEOUS" = "其他功能";
 
 /* general section switch */
-"APP_LOCK" = "鎖定App功能";
-"LOCK_APP_VIA_PASSWORD" = "使用裝置密碼將YouTube app上鎖！";
+"APP_LOCK" = "啟用鎖定App功能";
+"LOCK_APP_VIA_PASSWORD" = "使用裝置密碼將YouTube上鎖！";
 "OLED_DARK_MODE" = "OLED深色主題模式";
 "FOLLOW_SYSTEM_APPEARANCE" = "此模式遵從系統深色外觀設定";
 "PLAY_IN_BACKGROUND" = "啟用背景播放";
@@ -56,7 +56,7 @@
 
 /* video player section */
 "VIDEO_PLAYER_SECTION" = "影片播放頁面";
-"HIDE_SUGGESTED_VIDEO" = "隱藏推薦影片";
+"HIDE_SUGGESTED_VIDEO" = "隱藏留言區下方的推薦影片列";
 "COMMENTS" = "留言區";
 "HIDE_COMMENTS" = "隱藏留言區";
 "HIDE_COMMENTS_PREVIEW" = "隱藏熱門留言預覽";
@@ -214,7 +214,7 @@
 "ROUND_ALL_VIEW_CORNERS" = "柔和圓角介面";
 "DISABLE_DARK_MODE" = "停用黑暗模式";
 "HIDE_INCLUDE_PAID_PROMO" = "去除付費宣傳促銷";
-"DARK_KEYBOARDS" = "使用黑暗模式鍵盤";
+"DARK_KEYBOARDS" = "使用深色外觀鍵盤";
 "OTHERS" = "其他";
 "HIDE_PLAYLIST" = "隱藏播放清單";
 "PLAYLIST_INFO" = "不支援仿iPad風格";
