@@ -36,7 +36,7 @@
 /* general section switch */
 "APP_LOCK" = "啟用鎖定App功能";
 "LOCK_APP_VIA_PASSWORD" = "使用裝置密碼將YouTube上鎖！";
-"OLED_DARK_MODE" = "OLED深色主題模式";
+"OLED_DARK_MODE" = "啟用OLED深色主題模式";
 "FOLLOW_SYSTEM_APPEARANCE" = "此模式遵從系統深色外觀設定";
 "PLAY_IN_BACKGROUND" = "啟用背景播放";
 "NO_ADVERTISMENT" = "去除廣告";
@@ -70,8 +70,8 @@
 "SHOW_STATUS_BAR_IN_OVERLAY" = "懸浮顯示狀態欄";
 "SHOW_STATUS_BAR_IN_OVERLAY_INFO" = "不支援瀏海機種與仿iPad風格";
 "DISABLE_DOUBLE_TAP" = "停用點兩下";
-"DISABLE_CONTINUE_WATCHING" = "停用「您是否還在觀看？」提示";
-"DISABLE_CONTINUE_WATCHING_INFO" = "出現於長時間持續播放影片時的提示";
+"DISABLE_CONTINUE_WATCHING" = "停用「影片已暫停，要繼續觀賞嗎？」";
+"DISABLE_CONTINUE_WATCHING_INFO" = "長時間持續播放影片時出現的暫停提示";
 "HIDE_OVERLAY_QUICK_ACTION" = "隱藏橫向模式時間軸下方的懸浮按鈕";
 "HIDE_PLAYERBAR_WAVE" = "隱藏時間軸後方波浪";
 "HIDE_PLAYERBAR_WAVE_INFO" = "隱藏滑動時間軸時出現的瀏覽熱圖(Heat Map)";
@@ -93,7 +93,7 @@
 "REPLACE_PREVIUOS_AND_NEXT_BUTTON_INFO" = "以快轉、倒轉x秒按鈕取代";
 "HIDE_ITEMS" = "隱藏懸浮項目";
 "HIDE_VOLUME_BAR" = "隱藏音量指示器";
-"HIDE_VOLUME_BAR_INFO" = "隱藏橫向模式時YouTube的原生白色音量條";
+"HIDE_VOLUME_BAR_INFO" = "隱藏橫向模式時影片上方的白色音量條";
 "HIDE_INFO_CARD" = "隱藏資訊卡";
 "HIDE_WATER_MARK" = "隱藏浮水印";
 "HIDE_AUTOPLAY_BUTTON" = "隱藏自動播放按鈕";
