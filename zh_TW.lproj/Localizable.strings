@@ -223,7 +223,7 @@
 "HIDE_FILTER_TAGS" = "隱藏主題過濾器(直播中、合輯、遊戲等)";
 "FIX_SIGN_IN" = "修復「Google無法驗證此登入安全性」錯誤";
 "FIX_SIGNIN" = "修復無法登入YouTube問題";
-"FIX_SIGNIN_INFO" = "僅iOS14以下Sideload用戶需要開啟，iOS15以上已包含修復!";
+"FIX_SIGNIN_INFO" = "僅iOS14以下側載用戶需要開啟，iOS15以上已包含修復!";
 
 
 /* global action title */
